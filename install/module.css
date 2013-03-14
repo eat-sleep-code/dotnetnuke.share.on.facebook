@@ -1,0 +1,39 @@
+﻿/* =============================================================== */
+/* FEEDBACK CSS CLASSES                                            */
+/* =============================================================== */
+
+.donein_facebook
+{
+	color: #000000; 
+	font-size:9pt;
+	font-family: Arial, Sans-Serif; 
+	white-space: nowrap;
+	text-align: left;
+}
+
+.donein_facebook_image
+{
+	border: 0px;
+	padding-top: 4px;
+	padding-left: 4px;
+	padding-right: 4px;
+	padding-bottom: 4px;
+}
+
+.donein_facebook_message 
+{
+	color: #DD0000;
+	font-weight: bold;
+	text-align: justify;
+}
+
+
+.field_disabled
+{
+	color: #CCCCCC;
+}
+
+.field_enabled
+{
+	color: #000000;
+}
